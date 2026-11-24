@@ -1,0 +1,7 @@
+langkah,jumlah_baris,baris_dibuang
+Data awal,541909,0
+Pisahkan pembatalan,532621,9288
+Hapus duplikat,527390,5231
+Hapus Quantity/UnitPrice <= 0,524878,2512
+Hapus Description kosong,524878,0
+Hapus kode non-produk,522710,2168
